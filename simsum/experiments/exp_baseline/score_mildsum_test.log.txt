@@ -1,0 +1,2 @@
+SARI: 37.96	 D-SARI: 29.40 	 BLEU: 1.07 	 FKGL: 11.96 
+Execution time: --- 2324.4887413978577 seconds ---
